@@ -15,6 +15,7 @@
 		1D501C0721A4039A004F3FCB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501C0621A4039A004F3FCB /* main.m */; };
 		1D501C1121A4039A004F3FCB /* IntretechGitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501C1021A4039A004F3FCB /* IntretechGitDemoTests.m */; };
 		1D501C1C21A4039A004F3FCB /* IntretechGitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501C1B21A4039A004F3FCB /* IntretechGitDemoUITests.m */; };
+		1D501C2B21A430BE004F3FCB /* Feature1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501C2A21A430BE004F3FCB /* Feature1ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1D501C1721A4039A004F3FCB /* IntretechGitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntretechGitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D501C1B21A4039A004F3FCB /* IntretechGitDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntretechGitDemoUITests.m; sourceTree = "<group>"; };
 		1D501C1D21A4039A004F3FCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D501C2921A430BE004F3FCB /* Feature1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature1ViewController.h; sourceTree = "<group>"; };
+		1D501C2A21A430BE004F3FCB /* Feature1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature1ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				1D501BF821A4038E004F3FCB /* AppDelegate.m */,
 				1D501BFA21A4038E004F3FCB /* ViewController.h */,
 				1D501BFB21A4038E004F3FCB /* ViewController.m */,
+				1D501C2921A430BE004F3FCB /* Feature1ViewController.h */,
+				1D501C2A21A430BE004F3FCB /* Feature1ViewController.m */,
 				1D501BFD21A4038E004F3FCB /* Main.storyboard */,
 				1D501C0021A4039A004F3FCB /* Assets.xcassets */,
 				1D501C0221A4039A004F3FCB /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				1D501BFC21A4038E004F3FCB /* ViewController.m in Sources */,
 				1D501C0721A4039A004F3FCB /* main.m in Sources */,
 				1D501BF921A4038E004F3FCB /* AppDelegate.m in Sources */,
+				1D501C2B21A430BE004F3FCB /* Feature1ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D4C126821A4FA4D0086025F /* Feature5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D4C126721A4FA4D0086025F /* Feature5ViewController.m */; };
 		1D501BF921A4038E004F3FCB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BF821A4038E004F3FCB /* AppDelegate.m */; };
 		1D501BFC21A4038E004F3FCB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BFB21A4038E004F3FCB /* ViewController.m */; };
 		1D501BFF21A4038E004F3FCB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D501BFD21A4038E004F3FCB /* Main.storyboard */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1D4C126621A4FA4D0086025F /* Feature5ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature5ViewController.h; sourceTree = "<group>"; };
+		1D4C126721A4FA4D0086025F /* Feature5ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature5ViewController.m; sourceTree = "<group>"; };
 		1D501BF421A4038E004F3FCB /* IntretechGitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntretechGitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D501BF721A4038E004F3FCB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1D501BF821A4038E004F3FCB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				1D501BFB21A4038E004F3FCB /* ViewController.m */,
 				1D501C2C21A4343F004F3FCB /* Feature2ViewController.h */,
 				1D501C2D21A4343F004F3FCB /* Feature2ViewController.m */,
+				1D4C126621A4FA4D0086025F /* Feature5ViewController.h */,
+				1D4C126721A4FA4D0086025F /* Feature5ViewController.m */,
 				1D501BFD21A4038E004F3FCB /* Main.storyboard */,
 				1D501C0021A4039A004F3FCB /* Assets.xcassets */,
 				1D501C0221A4039A004F3FCB /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D501C2E21A4343F004F3FCB /* Feature2ViewController.m in Sources */,
+				1D4C126821A4FA4D0086025F /* Feature5ViewController.m in Sources */,
 				1D501BFC21A4038E004F3FCB /* ViewController.m in Sources */,
 				1D501C0721A4039A004F3FCB /* main.m in Sources */,
 				1D501BF921A4038E004F3FCB /* AppDelegate.m in Sources */,
